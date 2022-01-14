@@ -1,0 +1,257 @@
+:::: Log File ::::
+[13/1/2022 -- 19:27]  Info task started
+[13/1/2022 -- 19:27]  Mustache Templates ran on the HTML files
+[13/1/2022 -- 19:27]  Scripts ran on main.js
+[13/1/2022 -- 19:28]  Sass ran on files
+[13/1/2022 -- 19:40]  restarted!
+[13/1/2022 -- 19:43]  restarted!
+[13/1/2022 -- 19:47]  Scripts ran on main.js
+[13/1/2022 -- 19:47]  Scripts ran on main.js
+[13/1/2022 -- 19:47]  Scripts ran on main.js
+[13/1/2022 -- 19:47]  Scripts ran on main.js
+[13/1/2022 -- 19:48]  Scripts ran on main.js
+[13/1/2022 -- 19:48]  Scripts ran on main.js
+[13/1/2022 -- 19:48]  Scripts ran on main.js
+[13/1/2022 -- 19:48]  Scripts ran on main.js
+[13/1/2022 -- 19:51]  Scripts ran on main.js
+[13/1/2022 -- 19:53]  Scripts ran on main.js
+[13/1/2022 -- 19:53]  Scripts ran on main.js
+[13/1/2022 -- 19:53]  Scripts ran on main.js
+[13/1/2022 -- 19:54]  restarted!
+[13/1/2022 -- 19:54]  restarted!
+[13/1/2022 -- 19:54]  restarted!
+[13/1/2022 -- 19:54]  Scripts ran on main.js
+[13/1/2022 -- 20:14]  Scripts ran on main.js
+[13/1/2022 -- 20:15]  restarted!
+[13/1/2022 -- 20:20]  restarted!
+[13/1/2022 -- 20:20]  restarted!
+[13/1/2022 -- 20:21]  Scripts ran on main.js
+[13/1/2022 -- 20:22]  Scripts ran on main.js
+[13/1/2022 -- 20:34]  restarted!
+[13/1/2022 -- 20:35]  Scripts ran on main.js
+[13/1/2022 -- 20:35]  Scripts ran on main.js
+[13/1/2022 -- 20:36]  restarted!
+[13/1/2022 -- 20:36]  restarted!
+[13/1/2022 -- 20:37]  restarted!
+[13/1/2022 -- 20:38]  restarted!
+[13/1/2022 -- 20:38]  Scripts ran on main.js
+[13/1/2022 -- 20:39]  Scripts ran on main.js
+[13/1/2022 -- 20:39]  restarted!
+[13/1/2022 -- 20:40]  restarted!
+[13/1/2022 -- 20:40]  restarted!
+[13/1/2022 -- 20:42]  restarted!
+[13/1/2022 -- 20:46]  restarted!
+[13/1/2022 -- 20:48]  restarted!
+[13/1/2022 -- 20:48]  restarted!
+[13/1/2022 -- 20:48]  restarted!
+[13/1/2022 -- 20:48]  restarted!
+[13/1/2022 -- 20:48]  restarted!
+[13/1/2022 -- 20:48]  restarted!
+[13/1/2022 -- 20:51]  restarted!
+[13/1/2022 -- 20:51]  restarted!
+[13/1/2022 -- 20:52]  restarted!
+[13/1/2022 -- 20:53]  Scripts ran on main.js
+[13/1/2022 -- 20:53]  Scripts ran on main.js
+[13/1/2022 -- 20:54]  Scripts ran on main.js
+[13/1/2022 -- 20:55]  Scripts ran on main.js
+[13/1/2022 -- 20:55]  Scripts ran on main.js
+[13/1/2022 -- 20:55]  restarted!
+[13/1/2022 -- 20:56]  Scripts ran on main.js
+[13/1/2022 -- 20:57]  Scripts ran on main.js
+[13/1/2022 -- 20:57]  restarted!
+[13/1/2022 -- 20:57]  restarted!
+[13/1/2022 -- 20:58]  restarted!
+[13/1/2022 -- 20:58]  restarted!
+[13/1/2022 -- 20:58]  restarted!
+[13/1/2022 -- 20:58]  restarted!
+[13/1/2022 -- 20:58]  restarted!
+[13/1/2022 -- 20:58]  restarted!
+[13/1/2022 -- 20:58]  restarted!
+[13/1/2022 -- 20:58]  restarted!
+[13/1/2022 -- 20:58]  restarted!
+[13/1/2022 -- 20:59]  Scripts ran on main.js
+[13/1/2022 -- 21:0]  Scripts ran on main.js
+[13/1/2022 -- 21:1]  Scripts ran on main.js
+[13/1/2022 -- 21:2]  restarted!
+[13/1/2022 -- 21:2]  restarted!
+[13/1/2022 -- 21:2]  restarted!
+[13/1/2022 -- 21:3]  restarted!
+[13/1/2022 -- 21:5]  Scripts ran on main.js
+[13/1/2022 -- 21:14]  restarted!
+[13/1/2022 -- 21:15]  restarted!
+[13/1/2022 -- 21:37]  restarted!
+[13/1/2022 -- 21:37]  restarted!
+[13/1/2022 -- 21:38]  restarted!
+[13/1/2022 -- 21:38]  restarted!
+[13/1/2022 -- 21:55]  restarted!
+[13/1/2022 -- 21:55]  restarted!
+[13/1/2022 -- 21:55]  restarted!
+[13/1/2022 -- 21:55]  restarted!
+[13/1/2022 -- 22:3]  restarted!
+[13/1/2022 -- 22:4]  restarted!
+[13/1/2022 -- 22:4]  restarted!
+[13/1/2022 -- 22:4]  restarted!
+[13/1/2022 -- 22:4]  restarted!
+[13/1/2022 -- 22:5]  restarted!
+[13/1/2022 -- 22:5]  restarted!
+[13/1/2022 -- 22:5]  restarted!
+[13/1/2022 -- 22:5]  restarted!
+[13/1/2022 -- 22:5]  restarted!
+[13/1/2022 -- 22:5]  restarted!
+[13/1/2022 -- 22:5]  restarted!
+[13/1/2022 -- 22:6]  restarted!
+[13/1/2022 -- 22:9]  restarted!
+[13/1/2022 -- 22:9]  restarted!
+[13/1/2022 -- 22:18]  restarted!
+[13/1/2022 -- 22:18]  restarted!
+[13/1/2022 -- 22:20]  restarted!
+[13/1/2022 -- 22:20]  restarted!
+[13/1/2022 -- 22:20]  restarted!
+[13/1/2022 -- 22:20]  restarted!
+[13/1/2022 -- 22:20]  restarted!
+[13/1/2022 -- 22:20]  restarted!
+[13/1/2022 -- 22:21]  Info task started
+[13/1/2022 -- 22:22]  Mustache Templates ran on the HTML files
+[13/1/2022 -- 22:22]  Scripts ran on main.js
+[13/1/2022 -- 22:22]  Sass ran on files
+[13/1/2022 -- 22:23]  restarted!
+[13/1/2022 -- 22:23]  restarted!
+[13/1/2022 -- 22:23]  restarted!
+[13/1/2022 -- 22:23]  restarted!
+[13/1/2022 -- 22:23]  restarted!
+[13/1/2022 -- 22:24]  Scripts ran on main.js
+[13/1/2022 -- 22:26]  Scripts ran on main.js
+[13/1/2022 -- 22:26]  Scripts ran on main.js
+[13/1/2022 -- 22:27]  restarted!
+[13/1/2022 -- 22:28]  Scripts ran on main.js
+[13/1/2022 -- 22:29]  Scripts ran on main.js
+[13/1/2022 -- 22:30]  restarted!
+[13/1/2022 -- 22:31]  Info task started
+[13/1/2022 -- 22:31]  Mustache Templates ran on the HTML files
+[13/1/2022 -- 22:31]  Scripts ran on main.js
+[13/1/2022 -- 22:31]  Sass ran on files
+[13/1/2022 -- 22:32]  Sass ran on files
+[13/1/2022 -- 22:33]  restarted!
+[13/1/2022 -- 22:33]  restarted!
+[13/1/2022 -- 22:33]  restarted!
+[13/1/2022 -- 23:36]  restarted!
+[13/1/2022 -- 23:36]  restarted!
+[13/1/2022 -- 23:36]  restarted!
+[13/1/2022 -- 23:36]  restarted!
+[13/1/2022 -- 23:37]  restarted!
+[13/1/2022 -- 23:37]  restarted!
+[13/1/2022 -- 23:39]  Scripts ran on main.js
+[13/1/2022 -- 23:40]  Scripts ran on main.js
+[13/1/2022 -- 23:44]  Scripts ran on main.js
+[13/1/2022 -- 23:44]  Scripts ran on main.js
+[13/1/2022 -- 23:45]  Scripts ran on main.js
+[13/1/2022 -- 23:46]  Scripts ran on main.js
+[13/1/2022 -- 23:46]  Scripts ran on main.js
+[13/1/2022 -- 23:47]  Scripts ran on main.js
+[13/1/2022 -- 23:47]  Scripts ran on main.js
+[13/1/2022 -- 23:48]  Scripts ran on main.js
+[13/1/2022 -- 23:48]  Scripts ran on main.js
+[13/1/2022 -- 23:48]  Scripts ran on main.js
+[13/1/2022 -- 23:50]  Scripts ran on main.js
+[13/1/2022 -- 23:50]  Scripts ran on main.js
+[13/1/2022 -- 23:51]  Scripts ran on main.js
+[13/1/2022 -- 23:52]  Scripts ran on main.js
+[13/1/2022 -- 23:53]  Sass ran on files
+[13/1/2022 -- 23:53]  Sass ran on files
+[13/1/2022 -- 23:55]  Sass ran on files
+[13/1/2022 -- 23:59]  Scripts ran on main.js
+[14/1/2022 -- 0:2]  Scripts ran on main.js
+[14/1/2022 -- 0:6]  Scripts ran on main.js
+[14/1/2022 -- 0:8]  Scripts ran on main.js
+[14/1/2022 -- 0:8]  Sass ran on files
+[14/1/2022 -- 0:10]  Scripts ran on main.js
+[14/1/2022 -- 0:12]  Scripts ran on main.js
+[14/1/2022 -- 0:13]  Scripts ran on main.js
+[14/1/2022 -- 0:13]  Scripts ran on main.js
+[14/1/2022 -- 0:16]  Sass ran on files
+[14/1/2022 -- 0:16]  Scripts ran on main.js
+[14/1/2022 -- 0:17]  Sass ran on files
+[14/1/2022 -- 0:17]  Sass ran on files
+[14/1/2022 -- 0:18]  Sass ran on files
+[14/1/2022 -- 0:18]  Sass ran on files
+[14/1/2022 -- 0:18]  Sass ran on files
+[14/1/2022 -- 0:19]  Sass ran on files
+[14/1/2022 -- 0:19]  Sass ran on files
+[14/1/2022 -- 0:19]  Sass ran on files
+[14/1/2022 -- 0:19]  Sass ran on files
+[14/1/2022 -- 0:19]  Sass ran on files
+[14/1/2022 -- 0:20]  Scripts ran on main.js
+[14/1/2022 -- 0:20]  Sass ran on files
+[14/1/2022 -- 0:21]  Sass ran on files
+[14/1/2022 -- 0:21]  Sass ran on files
+[14/1/2022 -- 0:21]  Sass ran on files
+[14/1/2022 -- 0:21]  Sass ran on files
+[14/1/2022 -- 0:21]  Sass ran on files
+[14/1/2022 -- 0:22]  Sass ran on files
+[14/1/2022 -- 0:22]  Sass ran on files
+[14/1/2022 -- 0:23]  Sass ran on files
+[14/1/2022 -- 0:23]  Sass ran on files
+[14/1/2022 -- 0:23]  Sass ran on files
+[14/1/2022 -- 0:24]  Sass ran on files
+[14/1/2022 -- 0:25]  Sass ran on files
+[14/1/2022 -- 0:25]  Sass ran on files
+[14/1/2022 -- 0:26]  Sass ran on files
+[14/1/2022 -- 0:26]  Sass ran on files
+[14/1/2022 -- 0:28]  Sass ran on files
+[14/1/2022 -- 0:28]  Sass ran on files
+[14/1/2022 -- 0:29]  Sass ran on files
+[14/1/2022 -- 0:30]  Sass ran on files
+[14/1/2022 -- 0:30]  Sass ran on files
+[14/1/2022 -- 0:31]  Sass ran on files
+[14/1/2022 -- 0:32]  Sass ran on files
+[14/1/2022 -- 0:32]  Sass ran on files
+[14/1/2022 -- 0:32]  Sass ran on files
+[14/1/2022 -- 0:33]  Sass ran on files
+[14/1/2022 -- 0:33]  Sass ran on files
+[14/1/2022 -- 0:34]  Sass ran on files
+[14/1/2022 -- 0:34]  Sass ran on files
+[14/1/2022 -- 0:35]  Sass ran on files
+[14/1/2022 -- 0:35]  Sass ran on files
+[14/1/2022 -- 0:35]  Sass ran on files
+[14/1/2022 -- 0:35]  Sass ran on files
+[14/1/2022 -- 0:35]  Sass ran on files
+[14/1/2022 -- 0:36]  Sass ran on files
+[14/1/2022 -- 0:36]  Sass ran on files
+[14/1/2022 -- 0:36]  Scripts ran on main.js
+[14/1/2022 -- 0:37]  Sass ran on files
+[14/1/2022 -- 0:38]  Sass ran on files
+[14/1/2022 -- 0:38]  Sass ran on files
+[14/1/2022 -- 0:39]  Sass ran on files
+[14/1/2022 -- 0:39]  Sass ran on files
+[14/1/2022 -- 0:39]  Sass ran on files
+[14/1/2022 -- 0:40]  Sass ran on files
+[14/1/2022 -- 0:41]  Sass ran on files
+[14/1/2022 -- 0:41]  Scripts ran on main.js
+[14/1/2022 -- 0:41]  Sass ran on files
+[14/1/2022 -- 0:42]  Sass ran on files
+[14/1/2022 -- 0:43]  Sass ran on files
+[14/1/2022 -- 0:44]  Sass ran on files
+[14/1/2022 -- 0:44]  Sass ran on files
+[14/1/2022 -- 0:44]  Sass ran on files
+[14/1/2022 -- 0:44]  Sass ran on files
+[14/1/2022 -- 0:45]  Scripts ran on main.js
+[14/1/2022 -- 0:45]  Scripts ran on main.js
+[14/1/2022 -- 0:46]  Sass ran on files
+[14/1/2022 -- 0:46]  Sass ran on files
+[14/1/2022 -- 0:46]  Sass ran on files
+[14/1/2022 -- 0:47]  Scripts ran on main.js
+[14/1/2022 -- 0:48]  Scripts ran on main.js
+[14/1/2022 -- 0:48]  Sass ran on files
+[14/1/2022 -- 0:49]  Sass ran on files
+[14/1/2022 -- 0:50]  Sass ran on files
+[14/1/2022 -- 0:50]  Scripts ran on main.js
+[14/1/2022 -- 0:54]  Scripts ran on main.js
+[14/1/2022 -- 0:54]  Scripts ran on main.js
+[14/1/2022 -- 0:55]  Scripts ran on main.js
+[14/1/2022 -- 0:55]  Scripts ran on main.js
+[14/1/2022 -- 0:55]  Scripts ran on main.js
+[14/1/2022 -- 0:55]  Sass ran on files
+[14/1/2022 -- 0:57]  Info task started
+[14/1/2022 -- 0:57]  Mustache Templates ran on the HTML files
+[14/1/2022 -- 0:57]  Scripts ran on main.js
+[14/1/2022 -- 0:57]  Sass ran on files
